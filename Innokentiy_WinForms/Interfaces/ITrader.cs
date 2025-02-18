@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace Innokentiy_WinForms.Interfaces
 {
-    internal interface IFighter
+    internal interface ITrader
     {
-        void Attack(Creature target,IWeapon weapon);
-
+        void Sell(Creature creature,Item item);
     }
 }
