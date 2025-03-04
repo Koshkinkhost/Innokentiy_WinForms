@@ -10,6 +10,5 @@ namespace Innokentiy_WinForms.Interfaces
     internal interface IFighter
     {
         void Attack(Creature target,IWeapon weapon);
-
     }
 }

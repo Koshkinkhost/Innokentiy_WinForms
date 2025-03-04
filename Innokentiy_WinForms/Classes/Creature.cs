@@ -8,6 +8,7 @@ namespace Innokentiy_WinForms.Classes
 {
     internal class Creature
     {
+        public string Name { get; set; }
         public int Health { get; set; }
         public int CarryWeaight { get; set; }
         public double Wallet { get; set; }
@@ -18,7 +19,6 @@ namespace Innokentiy_WinForms.Classes
             Wallet = W;
             CarryWeaight = C;
             Items = new List<Item>();
-
         }
 
     }
