@@ -23,5 +23,12 @@ namespace Innokentiy_WinForms
             shop.Show();
             this.Hide();
         }
+
+        private void button_inventory_Click(object sender, EventArgs e)
+        {
+            Invantory invantory = new Invantory();
+            invantory.Show();
+            this.Hide();
+        }
     }
 }

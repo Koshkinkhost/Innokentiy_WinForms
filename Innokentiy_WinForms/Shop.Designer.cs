@@ -50,7 +50,6 @@
             pictureBox3 = new PictureBox();
             label1 = new Label();
             button1 = new Button();
-            button2 = new Button();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox_potion1).BeginInit();
             panel3.SuspendLayout();
@@ -68,9 +67,9 @@
             // label_money
             // 
             label_money.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            label_money.Location = new Point(815, 12);
+            label_money.Location = new Point(713, 9);
             label_money.Name = "label_money";
-            label_money.Size = new Size(86, 44);
+            label_money.Size = new Size(75, 33);
             label_money.TabIndex = 0;
             label_money.TextAlign = ContentAlignment.MiddleCenter;
             // 
@@ -79,19 +78,17 @@
             panel1.BackColor = SystemColors.Info;
             panel1.Controls.Add(button_buy1);
             panel1.Controls.Add(pictureBox_potion1);
-            panel1.Location = new Point(14, 16);
-            panel1.Margin = new Padding(3, 4, 3, 4);
+            panel1.Location = new Point(12, 12);
             panel1.Name = "panel1";
-            panel1.Size = new Size(238, 89);
+            panel1.Size = new Size(208, 67);
             panel1.TabIndex = 1;
             // 
             // button_buy1
             // 
             button_buy1.BackColor = SystemColors.Info;
-            button_buy1.Location = new Point(79, 17);
-            button_buy1.Margin = new Padding(3, 4, 3, 4);
+            button_buy1.Location = new Point(69, 13);
             button_buy1.Name = "button_buy1";
-            button_buy1.Size = new Size(142, 55);
+            button_buy1.Size = new Size(124, 41);
             button_buy1.TabIndex = 1;
             button_buy1.Text = "Приобрести(100)";
             button_buy1.UseVisualStyleBackColor = false;
@@ -100,10 +97,9 @@
             // pictureBox_potion1
             // 
             pictureBox_potion1.Image = Properties.Resources.potion1;
-            pictureBox_potion1.Location = new Point(3, 4);
-            pictureBox_potion1.Margin = new Padding(3, 4, 3, 4);
+            pictureBox_potion1.Location = new Point(3, 3);
             pictureBox_potion1.Name = "pictureBox_potion1";
-            pictureBox_potion1.Size = new Size(69, 80);
+            pictureBox_potion1.Size = new Size(60, 60);
             pictureBox_potion1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox_potion1.TabIndex = 0;
             pictureBox_potion1.TabStop = false;
@@ -113,20 +109,18 @@
             panel3.BackColor = SystemColors.Info;
             panel3.Controls.Add(button_buy3);
             panel3.Controls.Add(pictureBox_potion3);
-            panel3.Location = new Point(14, 211);
-            panel3.Margin = new Padding(3, 4, 3, 4);
+            panel3.Location = new Point(12, 158);
             panel3.Name = "panel3";
-            panel3.Size = new Size(238, 89);
+            panel3.Size = new Size(208, 67);
             panel3.TabIndex = 3;
             // 
             // button_buy3
             // 
             button_buy3.BackColor = SystemColors.Info;
             button_buy3.ForeColor = SystemColors.ControlText;
-            button_buy3.Location = new Point(79, 17);
-            button_buy3.Margin = new Padding(3, 4, 3, 4);
+            button_buy3.Location = new Point(69, 13);
             button_buy3.Name = "button_buy3";
-            button_buy3.Size = new Size(142, 55);
+            button_buy3.Size = new Size(124, 41);
             button_buy3.TabIndex = 3;
             button_buy3.Text = "Приобрести(120)";
             button_buy3.UseVisualStyleBackColor = false;
@@ -135,10 +129,9 @@
             // pictureBox_potion3
             // 
             pictureBox_potion3.Image = (Image)resources.GetObject("pictureBox_potion3.Image");
-            pictureBox_potion3.Location = new Point(3, 4);
-            pictureBox_potion3.Margin = new Padding(3, 4, 3, 4);
+            pictureBox_potion3.Location = new Point(3, 3);
             pictureBox_potion3.Name = "pictureBox_potion3";
-            pictureBox_potion3.Size = new Size(69, 80);
+            pictureBox_potion3.Size = new Size(60, 60);
             pictureBox_potion3.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox_potion3.TabIndex = 0;
             pictureBox_potion3.TabStop = false;
@@ -146,10 +139,9 @@
             // pictureBox_potion2
             // 
             pictureBox_potion2.Image = (Image)resources.GetObject("pictureBox_potion2.Image");
-            pictureBox_potion2.Location = new Point(3, 4);
-            pictureBox_potion2.Margin = new Padding(3, 4, 3, 4);
+            pictureBox_potion2.Location = new Point(3, 3);
             pictureBox_potion2.Name = "pictureBox_potion2";
-            pictureBox_potion2.Size = new Size(69, 80);
+            pictureBox_potion2.Size = new Size(60, 60);
             pictureBox_potion2.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox_potion2.TabIndex = 0;
             pictureBox_potion2.TabStop = false;
@@ -159,19 +151,17 @@
             panel2.BackColor = SystemColors.Info;
             panel2.Controls.Add(button_buy2);
             panel2.Controls.Add(pictureBox_potion2);
-            panel2.Location = new Point(14, 113);
-            panel2.Margin = new Padding(3, 4, 3, 4);
+            panel2.Location = new Point(12, 85);
             panel2.Name = "panel2";
-            panel2.Size = new Size(238, 89);
+            panel2.Size = new Size(208, 67);
             panel2.TabIndex = 2;
             // 
             // button_buy2
             // 
             button_buy2.BackColor = SystemColors.Info;
-            button_buy2.Location = new Point(79, 16);
-            button_buy2.Margin = new Padding(3, 4, 3, 4);
+            button_buy2.Location = new Point(69, 12);
             button_buy2.Name = "button_buy2";
-            button_buy2.Size = new Size(142, 55);
+            button_buy2.Size = new Size(124, 41);
             button_buy2.TabIndex = 2;
             button_buy2.Text = "Приобрести(110)";
             button_buy2.UseVisualStyleBackColor = false;
@@ -181,10 +171,9 @@
             // 
             button_gun1.BackColor = SystemColors.Info;
             button_gun1.ForeColor = SystemColors.ControlText;
-            button_gun1.Location = new Point(79, 17);
-            button_gun1.Margin = new Padding(3, 4, 3, 4);
+            button_gun1.Location = new Point(69, 13);
             button_gun1.Name = "button_gun1";
-            button_gun1.Size = new Size(142, 55);
+            button_gun1.Size = new Size(124, 41);
             button_gun1.TabIndex = 3;
             button_gun1.Text = "Приобрести(230)";
             button_gun1.UseVisualStyleBackColor = false;
@@ -195,19 +184,17 @@
             panel4.BackColor = SystemColors.Info;
             panel4.Controls.Add(button_gun1);
             panel4.Controls.Add(pictureBox1);
-            panel4.Location = new Point(280, 16);
-            panel4.Margin = new Padding(3, 4, 3, 4);
+            panel4.Location = new Point(245, 12);
             panel4.Name = "panel4";
-            panel4.Size = new Size(238, 89);
+            panel4.Size = new Size(208, 67);
             panel4.TabIndex = 4;
             // 
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(3, 4);
-            pictureBox1.Margin = new Padding(3, 4, 3, 4);
+            pictureBox1.Location = new Point(3, 3);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(69, 80);
+            pictureBox1.Size = new Size(60, 60);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
@@ -217,20 +204,18 @@
             panel5.BackColor = SystemColors.Info;
             panel5.Controls.Add(button_gun2);
             panel5.Controls.Add(pictureBox2);
-            panel5.Location = new Point(280, 113);
-            panel5.Margin = new Padding(3, 4, 3, 4);
+            panel5.Location = new Point(245, 85);
             panel5.Name = "panel5";
-            panel5.Size = new Size(238, 89);
+            panel5.Size = new Size(208, 67);
             panel5.TabIndex = 5;
             // 
             // button_gun2
             // 
             button_gun2.BackColor = SystemColors.Info;
             button_gun2.ForeColor = SystemColors.ControlText;
-            button_gun2.Location = new Point(79, 17);
-            button_gun2.Margin = new Padding(3, 4, 3, 4);
+            button_gun2.Location = new Point(69, 13);
             button_gun2.Name = "button_gun2";
-            button_gun2.Size = new Size(142, 55);
+            button_gun2.Size = new Size(124, 41);
             button_gun2.TabIndex = 3;
             button_gun2.Text = "Приобрести(240)";
             button_gun2.UseVisualStyleBackColor = false;
@@ -239,10 +224,9 @@
             // pictureBox2
             // 
             pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new Point(3, 4);
-            pictureBox2.Margin = new Padding(3, 4, 3, 4);
+            pictureBox2.Location = new Point(3, 3);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(69, 80);
+            pictureBox2.Size = new Size(60, 60);
             pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox2.TabIndex = 0;
             pictureBox2.TabStop = false;
@@ -252,20 +236,18 @@
             panel6.BackColor = SystemColors.Info;
             panel6.Controls.Add(button_gun3);
             panel6.Controls.Add(pictureBox3);
-            panel6.Location = new Point(280, 211);
-            panel6.Margin = new Padding(3, 4, 3, 4);
+            panel6.Location = new Point(245, 158);
             panel6.Name = "panel6";
-            panel6.Size = new Size(238, 89);
+            panel6.Size = new Size(208, 67);
             panel6.TabIndex = 6;
             // 
             // button_gun3
             // 
             button_gun3.BackColor = SystemColors.Info;
             button_gun3.ForeColor = SystemColors.ControlText;
-            button_gun3.Location = new Point(79, 17);
-            button_gun3.Margin = new Padding(3, 4, 3, 4);
+            button_gun3.Location = new Point(69, 13);
             button_gun3.Name = "button_gun3";
-            button_gun3.Size = new Size(142, 55);
+            button_gun3.Size = new Size(124, 41);
             button_gun3.TabIndex = 3;
             button_gun3.Text = "Приобрести(250)";
             button_gun3.UseVisualStyleBackColor = false;
@@ -274,10 +256,9 @@
             // pictureBox3
             // 
             pictureBox3.Image = (Image)resources.GetObject("pictureBox3.Image");
-            pictureBox3.Location = new Point(3, 4);
-            pictureBox3.Margin = new Padding(3, 4, 3, 4);
+            pictureBox3.Location = new Point(3, 3);
             pictureBox3.Name = "pictureBox3";
-            pictureBox3.Size = new Size(69, 80);
+            pictureBox3.Size = new Size(60, 60);
             pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox3.TabIndex = 0;
             pictureBox3.TabStop = false;
@@ -285,9 +266,9 @@
             // label1
             // 
             label1.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            label1.Location = new Point(646, 9);
+            label1.Location = new Point(565, 7);
             label1.Name = "label1";
-            label1.Size = new Size(129, 44);
+            label1.Size = new Size(113, 33);
             label1.TabIndex = 7;
             label1.Text = "Кошелёк";
             label1.TextAlign = ContentAlignment.MiddleCenter;
@@ -297,30 +278,21 @@
             button1.BackColor = Color.FromArgb(192, 255, 255);
             button1.FlatStyle = FlatStyle.Popup;
             button1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            button1.Location = new Point(17, 488);
+            button1.Location = new Point(15, 366);
+            button1.Margin = new Padding(3, 2, 3, 2);
             button1.Name = "button1";
-            button1.Size = new Size(183, 46);
+            button1.Size = new Size(160, 34);
             button1.TabIndex = 8;
             button1.Text = "⏎Назад";
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
-            // button2
-            // 
-            button2.Location = new Point(436, 500);
-            button2.Name = "button2";
-            button2.Size = new Size(94, 29);
-            button2.TabIndex = 9;
-            button2.Text = "button2";
-            button2.UseVisualStyleBackColor = true;
-            // 
             // Shop
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(192, 255, 192);
-            ClientSize = new Size(914, 600);
-            Controls.Add(button2);
+            ClientSize = new Size(800, 450);
             Controls.Add(button1);
             Controls.Add(label1);
             Controls.Add(panel6);
@@ -330,7 +302,6 @@
             Controls.Add(panel2);
             Controls.Add(panel1);
             Controls.Add(label_money);
-            Margin = new Padding(3, 4, 3, 4);
             Name = "Shop";
             Text = "Shop";
             Load += Shop_Load;
@@ -372,6 +343,5 @@
         private PictureBox pictureBox3;
         private Label label1;
         private Button button1;
-        private Button button2;
     }
 }

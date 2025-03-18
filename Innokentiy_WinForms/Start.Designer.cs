@@ -34,6 +34,7 @@
             label_moneyCount = new Label();
             button_shop = new Button();
             button_fight = new Button();
+            button_inventory = new Button();
             SuspendLayout();
             // 
             // progressBar_health
@@ -94,11 +95,23 @@
             button_fight.Text = "Сражаться";
             button_fight.UseVisualStyleBackColor = true;
             // 
+            // button_inventory
+            // 
+            button_inventory.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 204);
+            button_inventory.Location = new Point(390, 419);
+            button_inventory.Name = "button_inventory";
+            button_inventory.Size = new Size(153, 46);
+            button_inventory.TabIndex = 6;
+            button_inventory.Text = "inventory";
+            button_inventory.UseVisualStyleBackColor = true;
+            button_inventory.Click += button_inventory_Click;
+            // 
             // Start
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(868, 528);
+            Controls.Add(button_inventory);
             Controls.Add(button_fight);
             Controls.Add(button_shop);
             Controls.Add(label_moneyCount);
@@ -120,5 +133,6 @@
         private Label label_moneyCount;
         private Button button_shop;
         private Button button_fight;
+        private Button button_inventory;
     }
 }

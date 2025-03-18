@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Innokentiy_WinForms.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,16 +7,22 @@ using System.Threading.Tasks;
 
 namespace Innokentiy_WinForms.Classes
 {
-    internal class Potion : Item
+    internal class Potion : Item, IUse
     {
+        public int health;
         public Potion(double w, double p) : base(w, p)
         {
 
         }
 
-        public void Health(Hero hero)
+        public void Use(Potion potion)
         {
-            hero.Health += 10;
+            GameProvider.hero.Health += potion.health;
+        }
+
+        public void Use(IWeapon weapon)
+        {
+            throw new NotImplementedException();
         }
     }
 }

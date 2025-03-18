@@ -36,3 +36,4 @@ C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Inn
 C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.pdb
 C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.genruntimeconfig.cache
 C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\ref\Innokentiy_WinForms.dll
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.Invantory.resources

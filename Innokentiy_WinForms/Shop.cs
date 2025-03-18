@@ -94,7 +94,7 @@ namespace Innokentiy_WinForms
             if (result == DialogResult.Yes)
             {
                 this.Hide();
-                Start s=new Start();
+                Start s = new Start();
                 s.Show();
             }
             
