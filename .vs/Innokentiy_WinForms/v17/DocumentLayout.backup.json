@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|c:\\users\\innok\\source\\repos\\innokentiy_winforms\\innokentiy_winforms\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|solutionrelative:innokentiy_winforms\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|c:\\users\\innok\\source\\repos\\innokentiy_winforms\\innokentiy_winforms\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|solutionrelative:innokentiy_winforms\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|c:\\users\\innok\\source\\repos\\innokentiy_winforms\\innokentiy_winforms\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|solutionrelative:innokentiy_winforms\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|c:\\users\\innok\\source\\repos\\innokentiy_winforms\\innokentiy_winforms\\classes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|solutionrelative:innokentiy_winforms\\classes\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|c:\\users\\innok\\source\\repos\\innokentiy_winforms\\innokentiy_winforms\\classes\\gameprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|solutionrelative:innokentiy_winforms\\classes\\gameprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|c:\\users\\innok\\source\\repos\\innokentiy_winforms\\innokentiy_winforms\\invantory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|solutionrelative:innokentiy_winforms\\invantory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\innokentiy_winforms\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|solutionrelative:innokentiy_winforms\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\innokentiy_winforms\\invantory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|solutionrelative:innokentiy_winforms\\invantory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|c:\\users\\innok\\source\\repos\\innokentiy_winforms\\innokentiy_winforms\\classes\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|solutionrelative:innokentiy_winforms\\classes\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|c:\\users\\innok\\source\\repos\\innokentiy_winforms\\innokentiy_winforms\\classes\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|solutionrelative:innokentiy_winforms\\classes\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|c:\\users\\innok\\source\\repos\\innokentiy_winforms\\innokentiy_winforms\\interfaces\\iuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED4456F-FABB-413C-AF23-021BFED4D4B2}|Innokentiy_WinForms\\Innokentiy_WinForms.csproj|solutionrelative:innokentiy_winforms\\interfaces\\iuse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Start.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Start.cs",
+              "RelativeDocumentMoniker": "Innokentiy_WinForms\\Start.cs",
+              "ToolTip": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Start.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Innokentiy_WinForms\\Start.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:19:31.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Start.cs",
+              "DocumentMoniker": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Start.cs",
+              "RelativeDocumentMoniker": "Innokentiy_WinForms\\Start.cs",
+              "ToolTip": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Start.cs",
+              "RelativeToolTip": "Innokentiy_WinForms\\Start.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:05:56.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shop.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Shop.cs",
+              "RelativeDocumentMoniker": "Innokentiy_WinForms\\Shop.cs",
+              "ToolTip": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Shop.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Innokentiy_WinForms\\Shop.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:44:13.675Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Shop.cs",
+              "RelativeDocumentMoniker": "Innokentiy_WinForms\\Shop.cs",
+              "ToolTip": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Shop.cs",
+              "RelativeToolTip": "Innokentiy_WinForms\\Shop.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwF4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:02:45.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameProvider.cs",
+              "DocumentMoniker": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Classes\\GameProvider.cs",
+              "RelativeDocumentMoniker": "Innokentiy_WinForms\\Classes\\GameProvider.cs",
+              "ToolTip": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Classes\\GameProvider.cs",
+              "RelativeToolTip": "Innokentiy_WinForms\\Classes\\GameProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:43:24.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Classes\\Item.cs",
+              "RelativeDocumentMoniker": "Innokentiy_WinForms\\Classes\\Item.cs",
+              "ToolTip": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Classes\\Item.cs",
+              "RelativeToolTip": "Innokentiy_WinForms\\Classes\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:35:09.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Invantory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Invantory.cs",
+              "RelativeDocumentMoniker": "Innokentiy_WinForms\\Invantory.cs",
+              "ToolTip": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Invantory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Innokentiy_WinForms\\Invantory.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:19:45.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invantory.cs",
+              "DocumentMoniker": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Invantory.cs",
+              "RelativeDocumentMoniker": "Innokentiy_WinForms\\Invantory.cs",
+              "ToolTip": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Invantory.cs",
+              "RelativeToolTip": "Innokentiy_WinForms\\Invantory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwBcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:19:49.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Classes\\Weapon.cs",
+              "RelativeDocumentMoniker": "Innokentiy_WinForms\\Classes\\Weapon.cs",
+              "ToolTip": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Classes\\Weapon.cs",
+              "RelativeToolTip": "Innokentiy_WinForms\\Classes\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:28:08.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Potion.cs",
+              "DocumentMoniker": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Classes\\Potion.cs",
+              "RelativeDocumentMoniker": "Innokentiy_WinForms\\Classes\\Potion.cs",
+              "ToolTip": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Classes\\Potion.cs",
+              "RelativeToolTip": "Innokentiy_WinForms\\Classes\\Potion.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:35:14.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUse.cs",
+              "DocumentMoniker": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Interfaces\\IUse.cs",
+              "RelativeDocumentMoniker": "Innokentiy_WinForms\\Interfaces\\IUse.cs",
+              "ToolTip": "C:\\Users\\innok\\source\\repos\\Innokentiy_WinForms\\Innokentiy_WinForms\\Interfaces\\IUse.cs",
+              "RelativeToolTip": "Innokentiy_WinForms\\Interfaces\\IUse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T21:36:19.84Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 52,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

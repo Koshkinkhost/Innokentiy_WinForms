@@ -1,0 +1,40 @@
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\bin\Debug\net8.0-windows\Innokentiy_WinForms.exe
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\bin\Debug\net8.0-windows\Innokentiy_WinForms.deps.json
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\bin\Debug\net8.0-windows\Innokentiy_WinForms.runtimeconfig.json
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\bin\Debug\net8.0-windows\Innokentiy_WinForms.dll
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\bin\Debug\net8.0-windows\Innokentiy_WinForms.pdb
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.Properties.Resources.resources
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.csproj.GenerateResource.cache
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.AssemblyInfoInputs.cache
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.AssemblyInfo.cs
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.sourcelink.json
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.dll
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\refint\Innokentiy_WinForms.dll
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.pdb
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.genruntimeconfig.cache
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\ref\Innokentiy_WinForms.dll
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.Shop.resources
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.Start.resources
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\bin\Debug\net8.0-windows\Innokentiy_WinForms.exe
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\bin\Debug\net8.0-windows\Innokentiy_WinForms.deps.json
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\bin\Debug\net8.0-windows\Innokentiy_WinForms.runtimeconfig.json
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\bin\Debug\net8.0-windows\Innokentiy_WinForms.dll
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\bin\Debug\net8.0-windows\Innokentiy_WinForms.pdb
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.Properties.Resources.resources
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.Shop.resources
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.Start.resources
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.csproj.GenerateResource.cache
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.AssemblyInfoInputs.cache
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.AssemblyInfo.cs
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.sourcelink.json
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.dll
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\refint\Innokentiy_WinForms.dll
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.pdb
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.genruntimeconfig.cache
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\ref\Innokentiy_WinForms.dll
+C:\Users\innok\source\repos\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.Invantory.resources
+C:\Users\boris\OneDrive\Рабочий стол\WinForms\Innokentiy_WinForms\Innokentiy_WinForms\obj\Debug\net8.0-windows\Innokentiy_WinForms.Invantory.resources
