@@ -36,6 +36,8 @@
             comboBox_potion = new ComboBox();
             label1 = new Label();
             label2 = new Label();
+            comboBox_filter_weapon = new ComboBox();
+            comboBox_filter_potion = new ComboBox();
             SuspendLayout();
             // 
             // contextMenuStrip1
@@ -47,19 +49,17 @@
             // comboBox_weapons
             // 
             comboBox_weapons.FormattingEnabled = true;
-            comboBox_weapons.Location = new Point(239, 163);
-            comboBox_weapons.Margin = new Padding(3, 4, 3, 4);
+            comboBox_weapons.Location = new Point(209, 122);
             comboBox_weapons.Name = "comboBox_weapons";
-            comboBox_weapons.Size = new Size(348, 28);
+            comboBox_weapons.Size = new Size(305, 23);
             comboBox_weapons.TabIndex = 1;
             // 
             // button_use
             // 
             button_use.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            button_use.Location = new Point(322, 296);
-            button_use.Margin = new Padding(3, 4, 3, 4);
+            button_use.Location = new Point(282, 222);
             button_use.Name = "button_use";
-            button_use.Size = new Size(189, 57);
+            button_use.Size = new Size(165, 43);
             button_use.TabIndex = 2;
             button_use.Text = "Использовать";
             button_use.UseVisualStyleBackColor = true;
@@ -68,9 +68,10 @@
             // button1
             // 
             button1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            button1.Location = new Point(14, 540);
+            button1.Location = new Point(12, 405);
+            button1.Margin = new Padding(3, 2, 3, 2);
             button1.Name = "button1";
-            button1.Size = new Size(183, 45);
+            button1.Size = new Size(160, 34);
             button1.TabIndex = 3;
             button1.Text = "Назад";
             button1.UseVisualStyleBackColor = true;
@@ -79,42 +80,61 @@
             // comboBox_potion
             // 
             comboBox_potion.FormattingEnabled = true;
-            comboBox_potion.Location = new Point(239, 199);
-            comboBox_potion.Margin = new Padding(3, 4, 3, 4);
+            comboBox_potion.Location = new Point(209, 149);
             comboBox_potion.Name = "comboBox_potion";
-            comboBox_potion.Size = new Size(348, 28);
+            comboBox_potion.Size = new Size(305, 23);
             comboBox_potion.TabIndex = 4;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(169, 166);
+            label1.Location = new Point(148, 124);
             label1.Name = "label1";
-            label1.Size = new Size(64, 20);
+            label1.Size = new Size(51, 15);
             label1.TabIndex = 5;
             label1.Text = "Оружие";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(169, 207);
+            label2.Location = new Point(148, 155);
             label2.Name = "label2";
-            label2.Size = new Size(49, 20);
+            label2.Size = new Size(39, 15);
             label2.TabIndex = 6;
             label2.Text = "Зелье";
             // 
+            // comboBox_filter_weapon
+            // 
+            comboBox_filter_weapon.FormattingEnabled = true;
+            comboBox_filter_weapon.Location = new Point(520, 122);
+            comboBox_filter_weapon.Name = "comboBox_filter_weapon";
+            comboBox_filter_weapon.Size = new Size(85, 23);
+            comboBox_filter_weapon.Sorted = true;
+            comboBox_filter_weapon.TabIndex = 7;
+            comboBox_filter_weapon.SelectedValueChanged += comboBox_filter_weapon_SelectedValueChanged;
+            // 
+            // comboBox_filter_potion
+            // 
+            comboBox_filter_potion.FormattingEnabled = true;
+            comboBox_filter_potion.Location = new Point(520, 149);
+            comboBox_filter_potion.Name = "comboBox_filter_potion";
+            comboBox_filter_potion.Size = new Size(85, 23);
+            comboBox_filter_potion.TabIndex = 8;
+            comboBox_filter_potion.SelectedValueChanged += comboBox_filter_potion_SelectedValueChanged;
+            // 
             // Invantory
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(914, 600);
+            ClientSize = new Size(800, 450);
+            Controls.Add(comboBox_filter_potion);
+            Controls.Add(comboBox_filter_weapon);
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(comboBox_potion);
             Controls.Add(button1);
             Controls.Add(button_use);
             Controls.Add(comboBox_weapons);
-            Margin = new Padding(3, 4, 3, 4);
             Name = "Invantory";
             Text = "Invantory";
             Load += Invantory_Load;
@@ -131,5 +151,7 @@
         private ComboBox comboBox_potion;
         private Label label1;
         private Label label2;
+        private ComboBox comboBox_filter_weapon;
+        private ComboBox comboBox_filter_potion;
     }
 }
