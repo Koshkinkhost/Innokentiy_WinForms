@@ -16,19 +16,27 @@ namespace Innokentiy_WinForms
         public Invantory()
         {
             InitializeComponent();
-        }
 
+        }
+        private List<Item> weapons;
+        private List<Item> potion;
         private void Invantory_Load(object sender, EventArgs e)
         {
+            weapons= new List<Item>();
+            potion= new List<Item>();
+
             foreach (var t in GameProvider.hero.Items)
             {
 
                 if (t is Weapon)
                 {
                     comboBox_weapons.Items.Add(t);
+                    weapons.Add(t);
                 }
                 else
                 {
+                    potion.Add(t);
+
                     comboBox_potion.Items.Add(t);
 
                 }
@@ -60,60 +68,53 @@ namespace Innokentiy_WinForms
 
         private void comboBox_filter_weapon_SelectedValueChanged(object sender, EventArgs e)
         {
-            try
+            
+            if (comboBox_filter_weapon.SelectedIndex != -1 && comboBox_filter_weapon.SelectedItem.ToString()=="алфавит")
             {
-                var selectedValue = comboBox_filter_weapon.SelectedValue?.ToString();  // Защищаем от null
 
-                if (selectedValue == "алфавит")
-                {
-                    var weaponList = (List<Weapon>)comboBox_weapons.DataSource;
-                    var sortedWeapons = weaponList.OrderBy(item => item.Name).ToList();  // Преобразуем в список после сортировки
-                    comboBox_weapons.DataSource = sortedWeapons;
-                    comboBox_weapons.DisplayMember = "Name";  // Отображаем по полю Name
-                    comboBox_weapons.ValueMember = "Price";  // Или установите нужный ValueMember
-                }
-                else if (selectedValue == "стоимость")
-                {
-                    var weaponList = (List<Weapon>)comboBox_weapons.DataSource;
-                    var sortedWeapons = weaponList.OrderBy(item => item.Price).ToList();  // Преобразуем в список после сортировки
-                    comboBox_weapons.DataSource = sortedWeapons;
-                    comboBox_weapons.DisplayMember = "Name";  // Отображаем по полю Name
-                    comboBox_weapons.ValueMember = "Price";  // Или установите нужный ValueMember
-                }
+
+
+                weapons.Sort((x, y) => x.Name.CompareTo(y.Name));
+                RefreshComboBox(weapons);
+                
+             
+             
             }
-            catch (Exception ex)
+            else if(comboBox_filter_weapon.SelectedIndex != -1 && comboBox_filter_weapon.SelectedItem.ToString() == "стоимость")
             {
-                MessageBox.Show($"Ошибка при применении фильтра: {ex.Message}", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                weapons.Sort((x, y) => x.Price.CompareTo(y.Price));
+                RefreshComboBox(weapons);
+            }
+
+        }
+      
+
+        private void RefreshComboBox(List<Item> items)
+        {
+            
+            comboBox_weapons.Items.Clear();
+            List<Item> list = new List<Item>();
+            foreach (var t in items)
+            {
+
+                if (t is Weapon)
+                {
+                    comboBox_weapons.Items.Add(t);
+                    list.Add(t);
+                }
+                else
+                {
+                    list.Add(t);
+
+                    comboBox_potion.Items.Add(t);
+
+                }
             }
         }
 
         private void comboBox_filter_potion_SelectedValueChanged(object sender, EventArgs e)    //чат джпт
         {
-            try
-            {
-                var selectedValue = comboBox_filter_potion.SelectedValue?.ToString();  // Защищаем от null
-
-                if (selectedValue == "алфавит")
-                {
-                    var potionList = (List<Potion>)comboBox_potion.DataSource;
-                    var sortedPotions = potionList.OrderBy(item => item.Name).ToList();  // Преобразуем в список после сортировки
-                    comboBox_potion.DataSource = sortedPotions;
-                    comboBox_potion.DisplayMember = "Name";  // Отображаем по полю Name
-                    comboBox_potion.ValueMember = "Price";  // Или установите нужный ValueMember
-                }
-                else if (selectedValue == "стоимость")
-                {
-                    var potionList = (List<Potion>)comboBox_potion.DataSource;
-                    var sortedPotions = potionList.OrderBy(item => item.Price).ToList();  // Преобразуем в список после сортировки
-                    comboBox_potion.DataSource = sortedPotions;
-                    comboBox_potion.DisplayMember = "Name";  // Отображаем по полю Name
-                    comboBox_potion.ValueMember = "Price";  // Или установите нужный ValueMember
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Ошибка при применении фильтра: {ex.Message}", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
+          
         }
 
         /*private void comboBox_filter_weapon_SelectedValueChanged(object sender, EventArgs e)           //Моё решение
